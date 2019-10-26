@@ -20,3 +20,7 @@ CSV columns are, in order:
 * target currency
 * ask rate
 * bid rate (or `0` when not available)
+
+## Reference
+
+Check [Transferwise docs](https://api-docs.transferwise.com/#exchange-rates) for more interesting things to try in the future.
